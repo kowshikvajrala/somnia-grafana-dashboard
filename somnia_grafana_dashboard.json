@@ -27,10 +27,22 @@
       "keepTime": true,
       "tags": [],
       "targetBlank": true,
-      "title": "Somnia Team Grafana",
+      "title": "Somnia Testnet Team Grafana",
       "tooltip": "",
       "type": "link",
       "url": "https://somnia.grafana.net/public-dashboards/48eb9c69e1584e469878f4491364e86f?from=now-8h&to=now&timezone=browser"
+    },
+    {
+      "asDropdown": true,
+      "icon": "external link",
+      "includeVars": false,
+      "keepTime": false,
+      "tags": [],
+      "targetBlank": true,
+      "title": "Somnia Mainnet Team Grafana",
+      "tooltip": "",
+      "type": "link",
+      "url": "https://somnia.grafana.net/public-dashboards/66c9810ea7694c0b9b2cca5d9379d6fc"
     }
   ],
   "panels": [
@@ -2111,7 +2123,6 @@
   "timezone": "browser",
   "title": "Somnia Node",
   "uid": "bererijd4qakgd",
-  "version": 18,
+  "version": 20,
   "weekStart": "monday"
 }
-
